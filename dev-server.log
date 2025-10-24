@@ -1,0 +1,88 @@
+
+> 3d-building-viewer@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1308ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6.4s (1781 modules)
+ GET / 200 in 6505ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 584ms (1770 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 708ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ ○ Compiling /_error ...
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET / 500 in 20ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 429ms
+ ✓ Compiled /_not-found in 199ms (1087 modules)
+ GET / 500 in 18ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 50ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 888ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 500 in 12ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 56ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 404ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 500 in 9ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 27ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 418ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 4ms
+ GET / 500 in 4ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 22ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 362ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 500 in 7ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 33ms
+ ✓ Compiled in 207ms (1088 modules)
+ GET / 500 in 15ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 31ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 577ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 9ms
+ GET / 500 in 8ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 32ms
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 500 in 482ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 500 in 11ms
+ GET / 500 in 7ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 32ms
+ GET / 500 in 6ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 26ms
+ ✓ Compiled in 873ms (2001 modules)
+ GET / 200 in 507ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 138ms
+ GET /_next/static/webpack/6f4d276270dbd697.webpack.hot-update.json 404 in 1019ms
+ GET / 200 in 22ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 42ms
+ ✓ Compiled in 260ms (2015 modules)
+ ⨯ next-app-loader?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2Fjohannakohler%2FDocuments%2F3D&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!:12
+Error: Image import "next-metadata-image-loader?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!/Users/johannakohler/Documents/3D/app/favicon.ico?__next_metadata__" is not a valid image file. The image may be corrupted or an unsupported format.
+ GET / 500 in 7ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 13ms
+ GET / 500 in 8ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 500 in 23ms
+[?25h

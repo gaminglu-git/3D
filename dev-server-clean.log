@@ -1,0 +1,48 @@
+
+> 3d-building-viewer@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1191ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6.1s (1785 modules)
+ GET / 200 in 6251ms
+ ✓ Compiled /_not-found in 379ms (1788 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 494ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 504ms (1785 modules)
+ GET / 200 in 112ms
+ ✓ Compiled /_not-found in 302ms (1774 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 462ms
+ ✓ Compiled in 191ms (1788 modules)
+ GET / 200 in 30ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 40ms
+ GET / 200 in 23ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 32ms
+ ✓ Compiled in 527ms (1816 modules)
+ ✓ Compiled /icon.svg in 194ms (945 modules)
+ GET /icon.svg?ec080f684dc7631f 200 in 286ms
+ ✓ Compiled in 210ms (1848 modules)
+ GET / 200 in 57ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 203ms
+ GET /icon.svg?ec080f684dc7631f 200 in 18ms
+ GET / 200 in 26ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 54ms
+ GET /icon.svg?ec080f684dc7631f 200 in 10ms
+ ✓ Compiled in 512ms (1813 modules)
+ ✓ Compiled in 449ms (1813 modules)
+ ✓ Compiled in 173ms (901 modules)
+ ✓ Compiled in 238ms (1813 modules)
+ ✓ Compiled in 201ms (1819 modules)
+ ✓ Compiled in 294ms (1819 modules)
+ GET / 200 in 66ms
+ ✓ Compiled /_not-found in 307ms (1808 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 391ms
+ ✓ Compiled /icon.svg in 240ms (948 modules)
+ GET /icon.svg?ec080f684dc7631f 200 in 314ms
+ ✓ Compiled in 746ms (1819 modules)
+ ✓ Compiled in 196ms (1819 modules)
+[?25h
